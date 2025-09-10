@@ -1,6 +1,6 @@
-# Telecommunication-Systems-TEL-302
+# Telecommunication-Systems-1-TEL-302
 
-This repository contains the projects we developed during the academic year **2020–2021** for the course **Telecommunication Systems**.  
+This repository contains the projects we developed during the academic year **2020–2021** for the course **Telecommunication Systems 1**.  
 These projects were completed and submitted in partial fulfillment of the course requirements.
 
 ## Projects and Grades
