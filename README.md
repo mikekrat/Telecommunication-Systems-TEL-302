@@ -15,3 +15,5 @@ These projects were completed and submitted in partial fulfillment of the course
 - The code reflects our work and understanding during that period of study.
 - The maximum grade is 100, but the assignments offered 30 bonus points, which is why the final grade is calculated out of 130.
 
+## Collaborators
+- [Ioannis Lamprinidis](https://github.com/johnLampri)
